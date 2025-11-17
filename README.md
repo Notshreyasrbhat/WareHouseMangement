@@ -1,4 +1,3 @@
-```markdown
 # 📦 Warehouse Management System (PHP + CodeIgniter)
 A complete Warehouse Management System (WMS) built using **PHP**, **MySQL**, and **CodeIgniter**.  
 This project helps manage products, suppliers, customers, transactions, audit logs, and stock levels efficiently.
